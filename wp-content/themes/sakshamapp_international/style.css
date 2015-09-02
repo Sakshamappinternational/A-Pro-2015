@@ -1,0 +1,44 @@
+/*
+ Theme Name:   Sakshamapp International Child Theme
+ Theme URI:    http://www.wpbeginner.com/
+ Description:  A Twenty Fifteen child theme 
+ Author:       WPBeginner
+ Author URI:   http://www.wpbeginner.com
+ Template:     twentyfifteen
+ Version:      1.0.0
+*/
+
+@import url("../twentyfifteen/style.css");
+
+
+
+.sakshamapp_international_social_icon  > a {
+	
+	padding:10px;
+}
+
+
+
+.sakshamapp_international_social_icon  > a > i {
+	
+	
+}
+
+footer {
+	color:#000;
+}
+footer .widget , footer .widget-title , footer > *{
+	color:#000;
+}
+
+
+.faqpage h4.panel-title {
+	margin:0px;
+}
+.hentry, .page-header, .page-content {
+		
+}
+.entry-content a, .entry-summary a, .page-content a, .comment-content a, .pingback .comment-body > a {
+	text-decoration:none;
+	border-bottom:none;
+}
