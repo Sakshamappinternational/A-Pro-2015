@@ -1,4 +1,4 @@
-=== Twenty Fifteen ===
+===  Sakshamapp International Pvt. Ltd. ===
 Contributors: Sakshamapp International Pvt. Ltd.
 Requires at least: WordPress 4.1
 Tested up to: WordPress 4.3-trunk
@@ -21,9 +21,7 @@ Apro 2015 included all features of theme Twenty_Fifteen theme which is clean, bl
 * Menu Description
 * Post Formats
 
-
-For more information about Twenty Fifteen please go to https://codex.wordpress.org/Twenty_Fifteen.
-
+ 
 FAQ Page
 
 The following shortcode is to print the FAQ Accordion
